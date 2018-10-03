@@ -1,0 +1,6 @@
+Credentials cache: API:D08B49C4-A555-471F-84FA-455C35F077E0
+        Principal: ccumming@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Sep 18 13:02:18 2018  Sep 19 13:02:18 2018  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
+Sep 18 13:05:07 2018  Sep 19 13:02:18 2018  host/vogsphere.21-school.ru@21-SCHOOL.RU
